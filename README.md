@@ -4,6 +4,8 @@ Shitty script to import your GitKraken boards into your own Wekan instance.
 It uses the API because Wekan's actual official CSV importer doesn't work.
 In some places I guessed the API endpoints because the documentation sucks donkey ass.
 
+**This script ONLY works when the user is an admin user. Not sure why.**
+
 ## Usage
 
 ```
